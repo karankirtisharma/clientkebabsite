@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://karankirtisharma.github.io/clientkebabsite/sitemap.xml
+Sitemap: https://lazeezkebabs.vercel.app/sitemap.xml
